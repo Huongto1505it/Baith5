@@ -1,0 +1,6 @@
+e:\c#\Baith5\Baith5\bin\Debug\Baith5.exe.config
+e:\c#\Baith5\Baith5\bin\Debug\Baith5.exe
+e:\c#\Baith5\Baith5\bin\Debug\Baith5.pdb
+e:\c#\Baith5\Baith5\obj\Debug\Baith5.csprojResolveAssemblyReference.cache
+e:\c#\Baith5\Baith5\obj\Debug\Baith5.exe
+e:\c#\Baith5\Baith5\obj\Debug\Baith5.pdb
